@@ -1,0 +1,14 @@
+.out{
+    width: 500px;
+    height: 50px;
+    margin: 0 auto;
+}
+.list{
+    height: 50px;
+    width: 0;
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    line-height: 50px;
+}
